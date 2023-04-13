@@ -1,2 +1,2 @@
 # LeetCode-MKJ07-MySql
-SQL I problems on LeetCode
+SQL I DayWise problems on LeetCode
