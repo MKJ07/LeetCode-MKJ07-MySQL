@@ -17,7 +17,7 @@ This repository is organized into different sections based on problem categories
 
 ## Connect
 
-- Follow my LeetCode journey on [Coding Ninjas](https://www.codingninjas.com/profile/your_username).
+- Follow my LeetCode journey on [Leetcode](https://leetcode.com/MKJ07/).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) for professional networking.
 
 Happy coding!! 🚀
